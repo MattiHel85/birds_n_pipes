@@ -1,0 +1,15 @@
+body {
+    height: 50000px;
+}
+
+#overlay {
+    left: 0;
+    top: 0;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-image: url('../img/bg.png');
+    background-repeat: repeat-x;
+    background-position: 0 0;
+    background-size: auto 100%;
+}
